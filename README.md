@@ -13,7 +13,7 @@ The purpose of this analysis was to determine how many employees will be eligibl
 
 ![image](https://user-images.githubusercontent.com/107161421/182047068-d4ee01f9-3cdf-48d6-8cfd-12505aaeb7be.png)
 
--The CSV files provided by Hewlett Packard were also used to pull the employees that will be eligible to partake in the company mentorship program with new employees once the older employees retire. The employees born in the year 1965 will be mentorship eligible and were pulled into a table/CSV file with their employee number, name, title, and birth/from/to dates.
+- The CSV files provided by Hewlett Packard were also used to pull the employees that will be eligible to partake in the company mentorship program with new employees once the older employees retire. The employees born in the year 1965 will be mentorship eligible and were pulled into a table/CSV file with their employee number, name, title, and birth/from/to dates.
 
 ![image](https://user-images.githubusercontent.com/107161421/182047472-9689afca-a768-4d3f-b47b-bdc85f6b22bc.png)
 
